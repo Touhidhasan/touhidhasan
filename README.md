@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Touhid Hasan
-#### Python Web Scraper
+#### Python Web Scraping and Web Automation Professional
 I specialize in developing Python scripts that can scrape websites for structured and unstructured data, interact with APIs, and automate repetitive tasks. From handling bot detection challenges to dealing with CAPTCHA and rotating proxies, my projects aim to simplify data gathering and workflow automation.
 
 Skills: Python | Requests | Selenium | BeautifulSoup | pandas | undetected-chromedriver | API
