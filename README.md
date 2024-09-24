@@ -9,4 +9,6 @@ Skills: Python | Requests | Selenium | BeautifulSoup | pandas | undetected-chrom
 - 👯 I’m looking to collaborate on GitHub 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/touhidhasan-touhid/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/touhidhasan-touhid/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg' alt='Upwork' height='40'>](https://www.upwork.com/fl/touhid)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='Fiverr' height='40'>](https://www.fiverr.com/touhidhasan206)
